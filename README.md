@@ -25,8 +25,3 @@ fundamentals, and I aim to become an AI / Data Engineer in the future.
 <a href="https://www.x.com/Khanh64311698" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Khanh64311698?logo=twitter&style=for-the-badge&color=0891b2&labelColor=7c2d12"
 /></a>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/khanhlucwork"><img src="https://github-readme-stats.vercel.app/api?username=khanhlucwork&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=7c2d12&hide_border=true&show_icons=true" alt="khanhlucwork's GitHub stats" /></a>
